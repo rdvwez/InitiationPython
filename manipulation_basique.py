@@ -27,6 +27,13 @@ tuple_a = (1,'un')
 # deuxieme partie du tp
 # affecter un type à une variable
 a = tuple()
+# a = list()
+# a = int()
+# a = float()
+# a = dict()
+# a = str()
+# a = set()
+# a = int()
 print(a)
 type(a)
 
