@@ -35,8 +35,8 @@ a = tuple()
 # a = set()
 # a = int()
 print(a)
-type(a)
-
+h =type(a)
+print(h)
 '''
 Réponse à la Question
 Lorsque l’on utilise cette méthode, la valeur initiale de la variable est 0, quand il s'agit d'un entier 
